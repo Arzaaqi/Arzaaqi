@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arzaaqi
-- 👀 I’m interested in back-end development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning java, php, and python
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me arzaaqi555@gmail.com
